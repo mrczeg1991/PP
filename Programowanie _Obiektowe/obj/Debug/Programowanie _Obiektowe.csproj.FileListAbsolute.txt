@@ -1,0 +1,9 @@
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\bin\Debug\Programowanie _Obiektowe.exe.config
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\obj\Debug\Programowanie _Obiektowe.csprojResolveAssemblyReference.cache
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\bin\Debug\Programowanie _Obiektowe.exe
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\bin\Debug\Programowanie _Obiektowe.pdb
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\obj\Debug\Programowanie _Obiektowe.exe
+c:\users\marcin1991\documents\visual studio 2012\Projects\Programowanie Proceduralne\Programowanie _Obiektowe\obj\Debug\Programowanie _Obiektowe.pdb
+C:\Users\marcin1991\Documents\Visual Studio 2012\Projects\ParadygmatyProgramowania\Programowanie _Obiektowe\bin\Debug\Programowanie _Obiektowe.exe.config
+C:\Users\marcin1991\Documents\Visual Studio 2012\Projects\ParadygmatyProgramowania\Programowanie _Obiektowe\obj\Debug\Programowanie _Obiektowe.exe
+C:\Users\marcin1991\Documents\Visual Studio 2012\Projects\ParadygmatyProgramowania\Programowanie _Obiektowe\obj\Debug\Programowanie _Obiektowe.pdb
